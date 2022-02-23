@@ -1,4 +1,5 @@
-# RubiksCube
+# RubiksCube Version 2.0 For VS 2022 .NET6
+
 Rubik’s Cube for Beginners. Open Source WPF C# Application with 3D Graphics and Animation.
 
 This program will solve a Rubik’s cube using algorithms for beginners. It is a WPF open source application written in C# using 3D graphics and animation. The .NET framework namespaces used are: System.Windows.Media and System.Windows.Media.Media3D and System.Windows.Media.Animation.
